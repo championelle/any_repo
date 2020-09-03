@@ -2,6 +2,6 @@
 
   echo "Some Txt Test!";
 
-  echo "!@#asd";
+  $some="";
 
 ?>
