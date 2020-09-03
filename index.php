@@ -2,4 +2,6 @@
 
   echo "Some Txt Test!";
 
+  $some="";
+
 ?>
